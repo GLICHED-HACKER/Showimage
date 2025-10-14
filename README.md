@@ -9,10 +9,10 @@ Showimage.lua lets you show NFP images on screens and wirelessly control any com
 
 ### Latest release
 
-Use this command to download the newest version, showimage_V2.lua:
+Use this command to download the newest version, ShowImage_V2.lua:
 
 ```bash
-wget https://raw.githubusercontent.com/GLICHED-HACKER/Showimage/main/showimage_V2.lua
+wget https://raw.githubusercontent.com/GLICHED-HACKER/Showimage/main/ShowImage_V2.lua
 ```
 ### Older release
 
